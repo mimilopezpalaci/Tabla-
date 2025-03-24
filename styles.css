@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(59, 59, 233);
+    text-align: center;
+}
+table {
+    border: 1px solid blue;
+    border-collapse: separate;
+    border-spacing: 3px; 
+    margin: 0 auto;
+}
+.table-container {
+    border: 1px solid rgb(200, 200, 55); 
+    padding: 5px;
+    display: inline-block; 
+    margin: 5 auto; 
+}
+
+
+td {
+    text-align: center;
+    padding: 7.5px 30px;
+    border: 1px solid rgb(0, 0, 0); 
+    color: rgb(255, 251, 5);
+    padding: 25px;
+    width: 200px;
+}
+
+.separator {
+    width: auto;
+    height: 1.5px;
+    background-color: #dcc21a; 
+    margin: 0 auto 10px auto; 
+}
+
+
+h2 {
+    color: white;
+    size: 54px;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 55px; 
+}
